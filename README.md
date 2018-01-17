@@ -1,2 +1,2 @@
 # cppp_playground
-exercises for C++ Primer 4th
+Exercises for C++ Primer 4th Edition
